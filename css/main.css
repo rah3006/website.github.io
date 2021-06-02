@@ -1,0 +1,51 @@
+body{
+	background: url(../img/bg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-color: #fff;
+}
+
+.wolf{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.left{
+	margin-left: 10px;
+}
+
+.card{
+	margin-left: 85px;
+}
+
+.nav-item :hover {
+ background-color: #121314;
+}
+
+
+
+.p1{
+	margin-left: 100px;
+}
+
+.det{
+	margin-left: 10px;
+}
+
+.sub{
+	margin-left: 130px;
+}
+
+.pd{
+	margin-left: 20px;
+}
+
+.login{
+	margin-right: 20px;
+}
+
+.cp{
+	margin-left: 15px;
+}
